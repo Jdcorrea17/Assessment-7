@@ -12,3 +12,4 @@ largeArray
 
 extraLargeArray
 | insert 1.2731331670000001 s| append 2.9655 ms| in this last example with extraLargeArray the functions change once again, for insert from Milliseconds to seconds and the append from Microseconds to Milliseconds. now the digits are up to 6 and seeing that big difference compared to the other arrays  |   |   |
+
